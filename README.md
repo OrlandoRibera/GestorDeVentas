@@ -8,7 +8,7 @@ APPS
 Features
   - Generic Views
   - Unit tests en Venta app
-  - Django FMS
+  - Django FMS para manejar los estados de la venta
   - Carrito de la actual venta
   - Gestión de ventas
   - Gestión de productos
