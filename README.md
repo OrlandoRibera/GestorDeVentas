@@ -16,7 +16,9 @@ Features
   - Gestión de ventas
   - Gestión de productos
   
-Para instalar los requisitos del proyecto:
-    .. code:: bash
+Instalación de requisitos
+-------------------------
+
+.. code:: bash
 
     $ pip install -r /path/to/requirements.txt
