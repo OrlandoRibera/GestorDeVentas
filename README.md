@@ -1,12 +1,12 @@
 # GestorDeVentas
 Gestor de ventas para un Kiosco / Venta desarrollado con Django en su versión 3.0
 
-APPS
+APLICACIONES
 ----
   - Producto
   - Venta
   
-Features
+Características
 --------
 
   - Generic Views
